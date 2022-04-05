@@ -8,3 +8,8 @@ this project built with Pure Technologies like Html Css JavaScript
 - responsive
 - flex box 
 - and ....
+
+
+You can see the online version of the project from the link above in Vercel😁
+
+Good luck
